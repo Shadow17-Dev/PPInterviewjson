@@ -1,0 +1,62 @@
+[
+    {
+        "question": "What is the purpose of vacuum in condenser?",
+        "answer": "To prevent the turbine from back pressure.\nTo enhance the steam expansion ratio in the turbine so that maximum heat energy of steam may be utilized by decreasing its saturation temperature due to vacuum."
+    },
+    {
+        "question": "Write the reasons of loss of vacuum in condenser?",
+        "answer": "increase in temperature of circulating water.\nDrop In pressure of circulating water.\nMalfunctioning of main ejector.\nLess steam pressure in ejector (strainer choke)\nLeakage in condenser tubes.\nLoss of stem sealing of condenser related valves.\nTurbine gland sealing pressure low.\nHigh level of condenser.\nLo level of condenser.\nMalfunction of condenser tube sheet system.\nChoking (mech or bio) of condenser tubes."
+    },
+    {
+        "question": "What is range of vacuum in cnpp condenser and at what set point\n of low vacuum turbine will auto tripped?",
+        "answer": "Normal vacuum 0.092Mpa (700mm Hg).\nSteam by pass dump sys block 0.082Mpa (615 mm Hg).\nTurbine trip 0.081Mpa (608mm Hg)."
+    },
+    {
+        "question": "What are the protections of steam turbine? Also tell the set points?",
+        "answer": "Condenser vacuum low. (608mmHg)\nLow lube oil pressure. (0.041Mpa)\nEh oil pressure low. (9.3Mpa)\nDeep wear in thrust bearing. (1mm)1.25+ 1mm\nElectrical over speed. (110%)\nMechanical over speed. (110%)\nUser signal."
+    },
+    {
+        "question": "What is the normal temperature of lube oil in cnpp and at which value of lube oil temp. Alarm comes. Also tell at which set point turbine should trip manually?",
+        "answer": "Normal temperature after cooler 43c~49c.\nAlarm at 77c.\nManual turbine trip at 82c."
+    },
+    {
+        "question": "What will happen if lube oil temp is increased very high?",
+        "answer": "By increase in the temperature of lube oil its viscosity decreases and hence it’s lubricating properties decrease.\nHardness of Babbitt metal decreases.\nLube oil may decompose into its contents which may affect the whole lube oil system as it has acidic properties."
+    },
+    {
+        "question": "In steam turbine we restrict the lube oil temp up to 82c but in cars and other vehicles it may rises up to 100c.what is the reason?",
+        "answer": "Incase of turbine we restrict the lube oil temperature at relatively low set point because of following reasons:\n 1) Steam turbine is a huge structure than a vehicle its maintenance required greater time and huge cost as compare to vehicle.\n 2) Maintenance of steam turbine bearing is very tough than vehicle bearing.\n 3) In steam turbine bearing, Babbitt metal is used for inner lining of bearing which may damage at relatively low oil temperature than vehicle bearing which is made of steal."
+    },
+    {
+        "question": "By which chemical ph is controlled in condensate?",
+        "answer": "NH3 (ammonia)"
+    },
+    {
+        "question": "What is the purpose of tri sodium phosphate(Na3Po4)injection?",
+        "answer": "To control the pH of DCC and boiler feed water.(and to control silica by cogulation)"
+    },
+    {
+        "question": "What is the purpose of NaOH and H2SO4 injection?",
+        "answer": "NaOH is used for regeneration of anion bed and H2SO4 for regeneration of Cation bed"
+    },
+    {
+        "question": "Why turbine over speed?",
+        "answer": "1) Due to complete or partial load rejection.\n2) Due to increase in frequency of grid.\n3) mal functioning of extraction check valves.\n4) mal function of governor ( valve)."
+    },
+    {
+        "question": "Is there any voltage in the rotor of turbine?",
+        "answer": "There is no voltage in turbine rotor because turbine rotor is electrically isolated from generator rotor.(some static DC charge may be there)"
+    },
+    {
+        "question": "Convert 0.1mpa to Kgf/cm2, Atm, mmHg and Psi?",
+        "answer": "0.1 MPa = 1.032 Kgf/cm2 = 1 Atm = 760 mmHg = 14.7 Psi"
+    },
+    {
+        "question": "Convert 1 btu in calories and joules?",
+        "answer": "1Btu = 252 calories = 1055 joules"
+    },
+    {
+        "question": "What is the steam temp at LP turbine exhaust?",
+        "answer": "<65c (~ 50)"
+    }
+]
